@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#f1237ade, #2fc9ed, #ed2fac);
+    background: linear-gradient(#f1237ade, #ed2fac);
   }
   
   .container {
